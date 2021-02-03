@@ -504,3 +504,13 @@ there.
       margin-right: -50px;
   }
 }
+
+#mc_embed_signup {
+    background:#0500f; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;
+}
+
+#mc_embed_signup .button {
+    background-color: #0500f;
+}
+
+
