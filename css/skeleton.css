@@ -181,7 +181,8 @@ a {
   font-weight: 600;
 }
 a:hover {
-  color: #504f5f; }
+  color: #504f5f;
+  text-decoration: underline; }
 a:focus {
   color: #504f5f; }
 
