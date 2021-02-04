@@ -176,15 +176,15 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #636D97;
+  color: #a578bf;
   text-decoration: none;
   font-weight: 600;
 }
 a:hover {
-  color: #504f5f;
+  color: #bf78b6;
   text-decoration: underline; }
 a:focus {
-  color: #504f5f; }
+  color: #bf78b6; }
 
 
 /* Buttons
